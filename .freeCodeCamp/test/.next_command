@@ -74,3 +74,7 @@ psql -U postgres < student.sql
 psql -U postgres < students.sql
 __vsc_prompt_cmd_original
 touch student_info.sh
+ch -x student_info.sj
+ch -x student_info.sh
+chmod -x student_info.sh
+chmod +x student_info.sh
