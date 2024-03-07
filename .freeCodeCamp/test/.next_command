@@ -78,3 +78,15 @@ ch -x student_info.sj
 ch -x student_info.sh
 chmod -x student_info.sh
 chmod +x student_info.sh
+find bash
+find .bash
+find -name bash
+find -name .bash
+echo find -name .bash
+find sh
+find bash
+find .bash
+find bin
+/bin/bash
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
