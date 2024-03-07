@@ -90,3 +90,23 @@ find bin
 /bin/bash
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+\l
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+\l
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+pwd
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+find bash
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+find bin
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+which bash
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
